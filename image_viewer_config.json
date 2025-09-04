@@ -1,0 +1,14 @@
+{
+  "image_folder": "/Users/jiangjie/Downloads/img",
+  "items_per_page": 9,
+  "cache_size_gb": 1,
+  "xpath_configs": [
+    {
+      "domain": "sspai.com",
+      "xpath": "//*[@id=\"app\"]/div/div[3]/div[1]/div[2]/div[1]/div[1]/div/div/div/div[1]/a/img"
+    }
+  ],
+  "cache_size_mb": 100,
+  "auto_play": true,
+  "show_thumbnails": true
+}
